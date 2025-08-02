@@ -37,7 +37,7 @@ table {
 
 .month{
     background-color: #2E928F;
-    color: #fff;
+    color: #2E928F;
     font-size: 1.5em;
 }
 .year {
