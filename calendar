@@ -31,13 +31,13 @@ table {
     position: absolute;
     background-color: #fff;
     border: 2px solid #2E928F;
-    box-shadow: 2px 2px 1px 0px #2E928F;
+    box-shadow: 2px 2px 1px 0px #78b0cc;
     border-radius: 5px;
 }
 
 .month{
-    background-color: #2E928F;
-    color: #2E928F;
+    background-color:#78b0cc;
+    color:#78b0cc;
     font-size: 1.5em;
 }
 .year {
@@ -45,7 +45,7 @@ table {
     font-weight: normal;
     display: block;
     text-shadow: none;
-    color: #fff;
+    color: #78b0cc;
 }
 
 .day-header{
@@ -54,11 +54,11 @@ table {
 
 td,th {
     text-align: center;
-    background-color: #fff;
+    background-color: #78b0cc;
 }
 th {
     padding: 10px;
-    /* background-color: #2E928F;
+    /* background-color: #78b0cc;
     color: #fff; */
     /* font-weight: normal; */
 }
@@ -82,7 +82,7 @@ td>span {
 td.avui>span {
     font-weight: bold;
     background-color: #2E928F;
-    color: #fff;
+    color: #78b0cc;
 }
 td.fora > span {
     opacity: 0.2;
@@ -90,8 +90,8 @@ td.fora > span {
 
 
 .boto-next, .boto-prev {
-    background: #2E928F;
-    color: #fff;
+    background: #78b0cc;
+    color: #78b0cc;
     font-family: inherit;
     border: none;
     font-size: 25px;
