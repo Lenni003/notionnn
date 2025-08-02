@@ -49,7 +49,7 @@ table {
 }
 
 .day-header{
-    background-color: #000;
+    background-color: #78b0cc;
 }
 
 td,th {
@@ -68,10 +68,10 @@ th {
 
 td {
     padding: 0;
-    border-bottom: 1px solid rgba(0,0,0,0.05);
+    border-bottom: 1px solid #78b0cc;
 }
 td>span {
-    color: rgb(0, 0, 0);
+    color: #78b0cc;
     padding: 10px;
     display: block;
     border: 2px solid transparent;
